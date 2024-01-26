@@ -1,3 +1,3 @@
 document.getElementById("redirectBtn").addEventListener("click", function () {
-  window.location.href = "flowers.html";
+  window.location.href = "templates/flowers.html";
 });
